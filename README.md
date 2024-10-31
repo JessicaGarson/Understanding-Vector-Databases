@@ -5,4 +5,6 @@ Vector databases have established themselves as the new semantic search norm, pr
 Code from this demo was adopted from this [repository](https://github.com/justincastilla/book-search) and the article [Navigating an Elastic Vector Database](https://www.elastic.co/search-labs/blog/elastic-vector-database-practical-example).
 
 ## RAG example
+The code from the RAG example shown is in [this folder](JessicaGarson/Understanding-Vector-Databases/RAG example).
 
+## Additional Resources
