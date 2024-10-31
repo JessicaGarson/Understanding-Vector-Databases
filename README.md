@@ -8,3 +8,6 @@ Code from this demo was adopted from this [repository](https://github.com/justin
 The code from the RAG example shown is in [this folder](JessicaGarson/Understanding-Vector-Databases/RAG example).
 
 ## Additional Resources
+- [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained)
+- [Vector search tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial/vector-search) 
+- [Chat bot tutorial](https://www.elastic.co/search-labs/tutorials/chatbot-tutorial/welcome) 
